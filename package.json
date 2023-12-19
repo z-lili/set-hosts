@@ -1,0 +1,26 @@
+{
+  "name": "set-hosts-file",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "setHosts": "./bin/cmd.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "home king",
+    "/etc/hosts",
+    "change hosts",
+    "etc hosts",
+    "hostname",
+    "hosts file"
+  ],
+  "author": "zlq",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "minimist": "^1.2.5"
+  }
+}
